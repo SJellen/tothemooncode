@@ -1,0 +1,46 @@
+.container {
+    min-width: 100%;
+    height: auto;
+    padding: 0;
+}
+.container >h2 {
+    margin-bottom: 5rem;
+}
+
+.cardContainer {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.cardBox {
+    width: 18rem;
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px solid rgba(192, 192, 192, .5);
+    border-radius: 5px;
+    height: fit-content;
+}
+
+.headline {
+    font-size: large;
+}
+
+.summary {
+    color: rgb(71, 70, 70);
+    font-size: small;
+}
+
+.dateButtonBox {
+    display: flex;
+    justify-content: space-between;
+    width: auto;
+}
+
+.date {
+    font-size: smaller;
+    display: flex;
+    align-items: center;
+}
+
