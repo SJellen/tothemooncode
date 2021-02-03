@@ -1,4 +1,5 @@
 <h1 align="center">Welcome to To The Moon 👋</h1>
+![screenshot](https://github.com/SJellen/tothemooncode/blob/main/public/screenshot.png)
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
