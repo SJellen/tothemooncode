@@ -23,6 +23,8 @@ npm install
 
 ## Usage
 
+Add your Finnhub APIKEY to next.config.js file.
+
 ```sh
 npm run dev
 ```
