@@ -2,7 +2,7 @@ import { Timeline } from 'react-twitter-widgets'
 import styles from '../styles/Twitter.module.css'
 
 export default function Twitter() {
-    const twitterArr = ['wallstreetbets', 'elonmusk', 'stoolpresidente', 'vladtenev', 'WSBMemes', 'TheRoaringKitty', 'WSBTrending' ]
+    const twitterArr = ['wallstreetbets', 'elonmusk', 'stoolpresidente', 'vladtenev', 'WSBMemes', 'TheRoaringKitty', 'ChartPlug' ]
 
     const twitterTile = twitterArr.map((item, index) => (
         <div style={{maxWidth: "20rem", padding: '0'}} className="card mx-4 my-4 " key={index}>
